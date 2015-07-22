@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="universalimageloader">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mimi_newTrunk/libs/universalimageloader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

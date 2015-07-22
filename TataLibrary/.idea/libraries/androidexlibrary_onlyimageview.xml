@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="androidexlibrary_onlyimageview">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mimi_newTrunk/libs/androidexlibrary_onlyimageview.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

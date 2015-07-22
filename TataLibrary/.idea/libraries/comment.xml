@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="comment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mimi_newTrunk/libs/comment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
