@@ -58,4 +58,6 @@
     <color name="holo_dialog_text_color">#c6c6c6</color>
     <color name="holo_dialog_separate_line_color">#D5D5D5</color>
 
+    <color name="transparent">#00000000</color>
+
 </resources>
